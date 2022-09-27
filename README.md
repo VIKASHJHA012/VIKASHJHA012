@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
-<a href="https://makers.appwrite.io/VIKASHJHA012">
-    <img src="https://appwrite.io/cards/makers/VIKASHJHA012" alt="VIKASHJHA012's Maker Card" />
+<a href="https://makers.appwrite.io/vikashjha012">
+    <img src="https://appwrite.io/cards/makers/vikashjha012" alt="vikashjha012's Maker Card" />
 </a>
 [![@vikashjha0127's Holopin board](https://holopin.io/api/user/board?user=vikashjha0127)](https://holopin.io/@vikashjha0127)
 https://holopin.io/api/user/board?user=vikashjha0127)](https://holopin.io/@vikashjha0127
