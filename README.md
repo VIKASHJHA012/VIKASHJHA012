@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VIKASHJHA012
-- 👀 I’m interested in learning new technologies
+- 👋 Hi, I’m Vikash Jha
+- 👀 I’m Software Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+
 <a href="https://makers.appwrite.io/vikashjha012">
     <img src="https://appwrite.io/cards/makers/vikashjha012" alt="vikashjha012's Maker Card" />
 </a>
